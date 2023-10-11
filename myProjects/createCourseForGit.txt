@@ -1,3 +1,8 @@
-*{
-    background-color: yellow;
-}
+ 1. Create part for: Initiate project
+	2. Create part for: How to start using Git
+	3. Create part for: How to select files for backup
+	4. Create part for: How to exclude one file from being backed up.
+	5. Create part for: How to exclude folders or add them for backup
+	6. Create part for: How to back up or commit and get their details.
+	7. Create part for: How to use backups or how to use different versions
+8. Create part for: How to permanently exclude folders or files from the backup

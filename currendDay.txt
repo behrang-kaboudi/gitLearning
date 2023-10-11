@@ -1,2 +1,3 @@
-
-    simple HTML file
+	Buy host
+         Create part for: Initiate project
+Create part for: How to start using Git

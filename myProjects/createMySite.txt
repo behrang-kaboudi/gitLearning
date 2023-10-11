@@ -1,0 +1,4 @@
+	1. buy host
+	2. buy domain and set IP
+	3. initial project
+4. write other phases
